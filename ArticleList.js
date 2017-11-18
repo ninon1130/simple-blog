@@ -42,6 +42,7 @@ const query = gql`
     cover {
       url
     }
+    map
   }
 }
 `;
