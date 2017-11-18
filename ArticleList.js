@@ -12,7 +12,7 @@ const ArticleItem = ({ article }) => (
           backgroundSize: 'cover',
           backgroundPosition: '50% 50%',
           width: 600,
-          height: 150,
+          height: 500,
         }}
       />
     }
